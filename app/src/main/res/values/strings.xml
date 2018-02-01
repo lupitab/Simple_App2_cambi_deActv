@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple_App2_cambi_deActv</string>
+    <string name="button">Button</string>
+    <string name="gochild1">GoChild1</string>
+    <string name="go_child_2">Go Child 2</string>
+    <string name="go_child_1">Go Child 1</string>
+    <string name="change_background">Change Background</string>
+    <string name="click_her">Click Her</string>
+    <string name="comeback">ComeBack</string>
+</resources>
